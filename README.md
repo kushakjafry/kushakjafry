@@ -4,7 +4,7 @@
 
 My name is **Kushak Jafry** and I'm a **web developer**. I'm from India currently studying in **IIT Dhanbad**.
 
-<img align="right" alt="GIF" src="./icons/developer.gif" width="520" height="300" style="object-fit: contain" />
+<img align="right" alt="GIF" src="./icons/developer.gif" width="300" height="300" style="margin-right: 70px"/>
 
 - 🌱 I’m currently learning [Angular](https://angular.io/) , [NativeScript](https://nativescript.org/), [NestJS](https://nestjs.com)
 - 👯 I’m looking to collaborate on [Vendure](https://github.com/vendure-ecommerce/vendure)
