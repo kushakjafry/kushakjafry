@@ -8,7 +8,7 @@ My name is **Kushak Jafry** and I'm a **web developer**. I'm from India currentl
 
 - 🌱 I’m currently learning [Angular](https://angular.io/) , [NativeScript](https://nativescript.org/), [NestJS](https://nestjs.com)
 - 👯 I’m looking to collaborate on [Vendure](https://github.com/vendure-ecommerce/vendure)
-- 🤔 I’m looking for help with Ecommerce Site build on Nodejs.
+- 🤔 I’m looking for help with **Headless Ecommerce Backend** build on **Nodejs**.
 - 📫 How to reach me:
   - [💻 kushakjafry.tech](https://kushakjafry.tech)
   - [✉ kushakjafry@gmail.com](mailto:kushakjafry@gmail.com)
