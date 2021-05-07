@@ -35,7 +35,6 @@ My name is **Kushak Jafry** and I'm a **web developer**. I'm from India currentl
 ## My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kushakjafry&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushakjafry&layout=compact">
 
 <br><br>
