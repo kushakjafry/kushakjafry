@@ -13,7 +13,7 @@ My name is **Kushak Jafry** and I'm a **web developer**. I'm from India currentl
   - [💻 kushakjafry.tech](https://kushakjafry.tech)
   - [✉ kushakjafry@gmail.com](mailto:kushakjafry@gmail.com)
 
-<code><br></code>
+<br>
 
 ## Tools and Technologies
 
@@ -30,7 +30,7 @@ My name is **Kushak Jafry** and I'm a **web developer**. I'm from India currentl
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><br><br></code>
+<br><br>
 
 ## My stats
 
@@ -38,7 +38,7 @@ My name is **Kushak Jafry** and I'm a **web developer**. I'm from India currentl
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushakjafry&layout=compact">
 
-<code><br><br></code>
+<br><br>
 
 ## Connect With Me
 
