@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋, I'm Kushak Jafry
+
+## Fullstack (MEAN/MERN) developer.
+
+![Profile views](https://gpvc.arturio.dev/kushakjafry)
 
 <!--
 **kushakjafry/kushakjafry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
