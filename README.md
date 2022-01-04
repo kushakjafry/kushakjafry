@@ -10,7 +10,7 @@ My name is **Kushak Jafry** and I'm a **web developer**. I'm from India currentl
 - 👯 I’m looking to collaborate on [Vendure](https://github.com/vendure-ecommerce/vendure)
 - 🤔 I’m looking for help with **Headless Ecommerce Backend** build on **Nodejs**.
 - 📫 How to reach me:
-  - [💻 kushakjafry.tech](https://kushakjafry.tech)
+  - [💻 kushakjafry.in](https://kushakjafry.in)
   - [✉ kushakjafry@gmail.com](mailto:kushakjafry@gmail.com)
 
 <br>
@@ -41,4 +41,4 @@ My name is **Kushak Jafry** and I'm a **web developer**. I'm from India currentl
 
 ## Connect With Me
 
-You can connect with me on [💻 kushakjafry.tech](https://kushakjafry.tech) or [![image](./icons/linkedin.png)](https://linkedin.com/in/kushakjafry)
+You can connect with me on [💻 kushakjafry.in](https://kushakjafry.in) or [![image](./icons/linkedin.png)](https://linkedin.com/in/kushakjafry)
